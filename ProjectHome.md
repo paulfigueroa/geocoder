@@ -1,0 +1,1 @@
+Testando classe Geocoder que transforma coordenadas latitude e longitude em endereço.
